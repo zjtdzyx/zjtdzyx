@@ -19,6 +19,7 @@ A college student from China, focusing on web development + artificial intellige
 
 一位来自中国的高校学生，专注web开发+人工智能，期待接触到更为广阔的世界，期待与优秀的人做有挑战性的事情！！
 
+个人博客：https://soft-thief-034.notion.site/
 
 Technology stack:
 
