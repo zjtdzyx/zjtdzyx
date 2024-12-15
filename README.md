@@ -14,17 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 A college student from China, focusing on web development + artificial intelligence, looking forward to being exposed to a wider world and doing challenging things with outstanding people! !
 
-个人博客：https://soft-thief-034.notion.site/
-
-Technology stack:
-
-- Frontend: Vue, React, Ts
-- Backend: FastAPI, Express
-
-My journey to open source is ongoing...
 
 <picture>
   <source
@@ -38,4 +29,18 @@ My journey to open source is ongoing...
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zjtdzyx&show_icons=true" />
 </picture>
 
+Technology stack:
+
+- Frontend: Vue, React, Ts
+- Backend: FastAPI, Express
+- 
+个人博客：https://soft-thief-034.notion.site/
+
+My journey to open source is ongoing...
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjtdzyx&layout=compact)
+
+
+
+
+
