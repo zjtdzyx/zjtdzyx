@@ -35,7 +35,7 @@ My journey to open source is ongoing...
     srcset="https://github-readme-stats.vercel.app/api?username=zjtdzyx&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=zjtdzyx&show_icons=true" />
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zjtdzyx&show_icons=true" />
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjtdzyx&layout=compact)
