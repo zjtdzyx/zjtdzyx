@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **zjtdzyx/zjtdzyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A college student from China, focusing on web development + artificial intelligence, looking forward to being exposed to a wider world and doing challenging things with outstanding people! !
 
+My name is **Zhang Yuxiang**.A college student from China, focusing on web development and artificial intelligence, looking forward to being exposed to a wider world and doing challenging things with outstanding people! !
 
 <picture>
   <source
@@ -29,16 +29,13 @@ A college student from China, focusing on web development + artificial intellige
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zjtdzyx&show_icons=true" />
 </picture>
 
-Technology stack:
-
-- Frontend: Vue, React, Ts
-- Backend: FastAPI, Express
-- 
-个人博客：https://soft-thief-034.notion.site/
-
+- 🔭 Vue/React/Ts/Python 
+- 🌱 FastAPI/Express.js
+- 🤔 个人博客：https://soft-thief-034.notion.site/
+  
 My journey to open source is ongoing...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjtdzyx&layout=compact)
+
 
 
 
