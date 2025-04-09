@@ -39,7 +39,7 @@
 | 项目 | 描述 | 链接 |
 |------|------|------|
 | 🎥 **Atom-Video** | 视频分享 CMS，面向开发者知识创作者 | [🔗 GitHub](https://github.com/FightingTrip/atom-video) |
-| 📊 **Atom-Stats** | 项目数据可视化平台，支持 GitHub 活跃度分析等 | [🔗 GitHub](https://github.com/FightingTrip/atom-stats) |
+| 📊 **Atom-Stats** | 项目数据可视化平台，分析项目代码质量并给出可视化报告 | [🔗 GitHub](https://github.com/FightingTrip/atom-stats) |
 
 ---
 
@@ -47,7 +47,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zjtdzyx&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zjtdzyx&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=zjtdzyx&theme=radical" width="48%" />
 </p>
 
 <p align="center">
