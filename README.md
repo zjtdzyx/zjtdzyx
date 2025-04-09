@@ -47,7 +47,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zjtdzyx&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=zjtdzyx&theme=radical" width="48%" />
 </p>
 
 <p align="center">
