@@ -1,15 +1,15 @@
 <h1 align="center">Hi，我是 Yuxiang Zhang 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=前端开发工程师🚀;Atom 项目发起人👑;正在实习于美的集团🏢;热爱开源 ❤️;全栈成长中🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=前端开发工程师🚀;Atom 项目发起人👑;正在实习于Midea🏢;热爱开源 ❤️;全栈成长中🔥" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 关于我
 
-- 💼 目前在 **Midea 美的集团** 作为前端开发实习生  
-- 🧠 领导并主导开发了 [Atom 系列开源项目](#atom-产品展示)  
+- 💼 目前在 **Midea** 作为前端开发实习生  
+- 🧠 希望可以完成 [Atom 系列开源项目](#atom-产品展示)  
 - 🚀 正在开发的两个核心项目：
   - 🎥 [Atom-Video](https://github.com/FightingTrip/atom-video): 面向开发者的视频分享 CMS
   - 📊 [Atom-Stats](https://github.com/FightingTrip/atom-stats): 项目数据可视化分析平台  
@@ -38,8 +38,8 @@
 
 | 项目 | 描述 | 链接 |
 |------|------|------|
-| 🎥 **Atom-Video** | 视频分享 CMS，面向开发者知识创作者 | [🔗 GitHub](https://github.com/FightingTrip/atom-video) |
-| 📊 **Atom-Stats** | 项目数据可视化平台，分析项目代码质量并给出可视化报告 | [🔗 GitHub](https://github.com/FightingTrip/atom-stats) |
+| 🎥 **Atom-Video** | 视频分享平台 ，面向开发者知识创作者（正在开发中！） | [🔗 GitHub](https://github.com/FightingTrip/atom-video) |
+| 📊 **Atom-Stats** | 项目数据可视化平台，分析项目代码质量并给出可视化报告（正在开发中！） | [🔗 GitHub](https://github.com/FightingTrip/atom-stats) |
 
 ---
 
