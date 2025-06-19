@@ -1,14 +1,10 @@
 <h1 align="center">Hi，我是 zyx 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=前端开发工程师🚀;Atom 项目发起人👑;正在实习于Midea🏢;热爱开源 ❤️;全栈成长中🔥" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧑‍💻 关于我
 
-- 💼 目前在 **Midea** 作为前端开发实习生  
+- 💼 不久前结束再美的的实习，接下来要前往9am！ 
 - 🧠 希望可以完成 [Atom 系列开源项目](#atom-产品展示)  
 - 🚀 正在开发的两个核心项目：
   - 🎥 [Atom-Video](https://github.com/FightingTrip/atom-video):面向开发者的视频分享平台
