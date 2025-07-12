@@ -1,17 +1,19 @@
 <h1 align="center">Hello everyone! I'm zyx!</h1>
 
 ### Work Experience
+
 - Frontend Developer at Midea Group, Intelligent Product Manufacturing Division
 - Frontend Developer at 9am Tech, Software Development Department
 
 ### About Me
-- Currently learning Android native development and React Native cross-platform development.  
+
+- Currently learning AI full-stack development.
 - Striving to become a world-class engineer.
 
 ### Contact Me
+
 - [Personal Blog](https://zjtdzyx.xyz/)
 - Email: yuxiangzhang040727@gmail.com
-
 
 ### GitHub Stats
 
@@ -31,8 +33,4 @@
   <img src="https://komarev.com/ghpvc/?username=zjtdzyx&style=flat-square&color=blue" />
 </p>
 
-
-
-
 > —— Keep building. Keep dreaming. Keep coding. 🚀
-
