@@ -1,14 +1,27 @@
 <h1 align="center">Hello everyone! I'm zyx!</h1>
 
-### Work Experience
+### Internship Experience
 
-- Frontend Developer at Midea Group, Intelligent Product Manufacturing Division
-- Frontend Developer at 9am Tech, Software Development Department
+- Frontend Engineer @ Midea Group, Intelligent Product Manufacturing Division
+- Frontend Engineer @ 9am Tech, Software Development Department
+
+### Tech Stack
+
+- **Frontend:** H5, Vue, React  
+- **Client:** Flutter, React-Native  
+- **Backend:** Node (Express), Python (FastAPI)  
+- **LLM:** LangChain
+
+Currently focusing on the Memory-Echoes project and expanding skills in backend and LLM application development.
+
+### Looking for Opportunities
+
+Open to AI Full Stack Development / Full Stack Development / AI Application Development / LLM Application Development roles.
 
 ### About Me
 
-- Currently learning AI full-stack development.
-- Striving to become a world-class engineer.
+- Passionate about engineering excellence and technological innovation.
+- Aspiring to become a world-class engineer.
 
 ### Contact Me
 
@@ -27,7 +40,7 @@
 
 ---
 
-### Visitors Stats'
+### Visitors Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zjtdzyx&style=flat-square&color=blue" />
