@@ -11,6 +11,7 @@
 - **Client:** Flutter, React-Native  
 - **Backend:** Node (Express), Python (FastAPI)  
 - **LLM:** LangChain
+- **Other:** Shopify Theme development, MIot Extension development
 
 Currently focusing on the Memory-Echoes project and expanding skills in backend and LLM application development.
 
