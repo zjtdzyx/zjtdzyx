@@ -7,10 +7,11 @@
 
 ### Tech Stack
 
-- **Frontend:** H5, Vue, React  
+- **Frontend:** Vue, React  
 - **Client:** Flutter, React-Native  
 - **Backend:** Node (Express), Python (FastAPI)  
-- **LLM:** LangChain
+- **LLM:** LangChain，LangGraph，ADK
+- **Cloud:** Google Cloud
 - **Other:** Shopify Theme development, MIot Extension development
 
 Currently focusing on the Memory-Echoes project and expanding skills in backend and LLM application development.
