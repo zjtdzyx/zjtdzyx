@@ -9,9 +9,9 @@
 
 - **Frontend:** Vue, React  
 - **Client:** Flutter, React-Native  
-- **Backend:** Node (Express), Python (FastAPI)  
+- **Backend:** Node (Express), Python (FastAPI)，SQLite
 - **LLM:** LangChain，LangGraph，ADK
-- **Cloud:** Google Cloud
+- **Cloud:** GCP,Firebase
 - **Other:** Shopify Theme development, MIot Extension development
 
 Currently focusing on the Memory-Echoes project and expanding skills in backend and LLM application development.
@@ -32,9 +32,6 @@ Open to AI Full Stack Development / Full Stack Development / AI Application Deve
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zjtdzyx&show_icons=true&theme=radical" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zjtdzyx&theme=react-dark" />
