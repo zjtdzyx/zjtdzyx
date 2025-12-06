@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone! I'm zyx!</h1>
+<h1 align="center">Hello everyone! I'm zjtdzyx!</h1>
 
 ### Internship Experience
 
@@ -9,9 +9,10 @@
 
 - **Frontend:** Vue, React  
 - **Client:** Flutter, React-Native  
-- **Backend:** Node (Express), Python (FastAPI)，SQLite
-- **LLM:** LangChain，LangGraph，ADK
-- **Cloud:** GCP,Firebase
+- **Backend:** Node (Express), Python (FastAPI)
+- **Database:** PostgreSQL
+- **LLM:** LangGraph，ADK，RAG
+- **Cloud:** GCP
 - **Other:** Shopify Theme development, MIot Extension development
 
 Currently focusing on the Memory-Echoes project and expanding skills in backend and LLM application development.
@@ -27,7 +28,7 @@ Open to AI Full Stack Development / Full Stack Development / AI Application Deve
 
 ### Contact Me
 
-- [Personal Blog](https://zjtdzyx.xyz/)
+- [Personal Blog](https://zjtdzyx.engineer/)
 - Email: yuxiangzhang040727@gmail.com
 
 ### GitHub Stats
