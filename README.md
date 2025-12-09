@@ -15,7 +15,7 @@
 - **Cloud:** GCP
 - **Other:** Shopify Theme development, MIot Extension development
 
-Currently focusing on the Memory-Echoes project and expanding skills in backend and LLM application development.
+Currently focusing on the Echoes、Lumina、Aetheria  projects and expanding skills in backend and LLM application development.
 
 ### Looking for Opportunities
 
