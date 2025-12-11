@@ -9,7 +9,7 @@
 
 - **Frontend:** Vue, React  
 - **Client:** Flutter, React-Native  
-- **Backend:** Node (Express), Python (FastAPI)
+- **Backend:** Python (FastAPI)
 - **Database:** PostgreSQL
 - **LLM:** LangGraph，ADK，RAG
 - **Cloud:** GCP
