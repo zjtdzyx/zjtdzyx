@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone! I'm zjtdzyx!</h1>
+<h1 align="center">Hi! I'm zjtdzyx!</h1>
 
 ### Internship Experience
 
@@ -7,7 +7,7 @@
 
 ### Tech Stack
 
-- **Frontend:** Vue, React  
+- **Frontend:** Vue, React， H5  
 - **Client:** Flutter, React-Native  
 - **Backend:** Python (FastAPI)
 - **Database:** PostgreSQL
@@ -15,7 +15,7 @@
 - **Cloud:** GCP
 - **Other:** Shopify Theme development, MIot Extension development
 
-Currently focusing on the Echoes、Lumina、Aetheria  projects and expanding skills in backend and LLM application development.
+Currently focusing on the engineering and commercial implementation of the three apps: Echoes、Lumina and Aethera.
 
 ### Looking for Opportunities
 
@@ -25,6 +25,7 @@ Open to AI Full Stack Development / Full Stack Development / AI Application Deve
 
 - Passionate about engineering excellence and technological innovation.
 - Aspiring to become a world-class engineer.
+- Looking forward to the arrival of the AGI era.
 
 ### Contact Me
 
